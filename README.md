@@ -1,2 +1,2 @@
 # elevatics-voice
-use Elevatics Search using voice command
+Elevatics Search - using voice command
